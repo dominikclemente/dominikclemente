@@ -88,12 +88,6 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 
 <br /> 
 
-<br />
-
-<br />
-
-<br />
-
 ## Workflow
 
 My daily driver machine runs Arch Linux, [here are my config files and the main software I use](https://github.com/dominikclemente/rice):

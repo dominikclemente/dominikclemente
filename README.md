@@ -24,9 +24,9 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 
 <br />
 
-## Languages and tools
+# Languages and tools
 
-### Blockchain Development (Ethereum decentralized applications)
+## Blockchain Development (Ethereum decentralized applications)
 
 [<img align="left" alt="Solidity" height="40px" src="https://tintinweb.gallerycdn.vsassets.io/extensions/tintinweb/vscode-solidity-flattener/0.0.9/1591478443875/Microsoft.VisualStudio.Services.Icons.Default" />][solidity]
 [<img align="left" alt="Truffle" width="40px" src="https://pthomann.pl/wp-content/uploads/2020/01/truffle.png" />][truffle]
@@ -43,7 +43,7 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 
 <br />
 
-### Full Stack Development
+## Full Stack Development
 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -59,7 +59,7 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 <img align="left" alt="MongoDB" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <img align="left" alt="Apollo" width="40px" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
-<img align="left" alt="Cypress" widht="40px" src="https://www.kindpng.com/picc/m/424-4248243_cypress-circle-marital-status-icon-hd-png-download.png`" />
+<img align="left" alt="Cypress" widht="40px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/3556671901536211770-512.png" />
 <img align="left" alt="Express" height="40px" src="https://p7.hiclipart.com/preview/545/451/583/node-js-express-js-javascript-solution-stack-web-application-others.jpg" />
 
 
@@ -68,7 +68,7 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 
 <br />
 
-### AI/ML + Data Science
+## AI/ML + Data Science
 
 <img align="left" alt="Python" width="40px" src="https://i.pinimg.com/originals/77/88/25/778825be381be66db27d56ba533034ea.png" />
 <img align="left" alt="TensorFlow" width="40px" src="https://3.bp.blogspot.com/-y7Hif1cowAM/XfBhDhB_ARI/AAAAAAAABlo/blLV7czsGqcnmWc9njmzUnp0yh6kNZRAgCLcBGAsYHQ/s1600/1_b4otA55Us-hoI57lqUfplA.png" />
@@ -88,7 +88,7 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 
 <br />
 
-### Workflow
+## Workflow
 
 My daily driver machine runs Arch Linux, [here are my config files and the main software I use](https://github.com/dominikclemente/rice):
 

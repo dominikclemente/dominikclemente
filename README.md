@@ -58,6 +58,12 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 <img align="left" alt="PostgreSQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>
 <img align="left" alt="MongoDB" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
+<img align="left" alt="Apollo" width="40px" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
+<img align="left" alt="Cypress" widht="40px" src="https://www.kindpng.com/picc/m/424-4248243_cypress-circle-marital-status-icon-hd-png-download.png`" />
+<img align="left" alt="Express" height="40px" src="https://p7.hiclipart.com/preview/545/451/583/node-js-express-js-javascript-solution-stack-web-application-others.jpg" />
+
+
+
 <br />
 
 <br />
@@ -71,11 +77,11 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 <img align="left" alt="Matplotlib" height="26px" src="https://matplotlib.org/3.1.0/_images/sphx_glr_logos2_003.png" />
 <img align="left" alt="Seaborn" height="35px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
 <img align="left" alt="Keras" height="35px" src="https://keras.io/img/logo-k-keras-wb.png" />
-<img align="left" alt="Scikit-learn" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" /> \ 
+<img align="left" alt="Scikit-learn" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />  
 
 <img align="left" alt="Scipy" height="40px" src="https://www.fullstackpython.com/img/logos/scipy.png" />
 <img align="left" alt="OpenCV" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
-<img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" /> \
+<img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" /> 
 
 
 <br /> 
@@ -84,15 +90,19 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 
 ### Workflow
 
-My daily driver machine runs Arch Linux, [here are my config files and the main software I use](https://github.com/dominikclemente/rice)
+My daily driver machine runs Arch Linux, [here are my config files and the main software I use](https://github.com/dominikclemente/rice):
 
-OS:
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Arch Linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="WebStorm" width="40px" src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="NeoVim" width="40px" src="https://blog.ashwinchat.com/content/images/size/w600/2018/10/neovim.jpeg" />
+<img align="left" alt="Figma" width="40px" src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" />
+<img align="left" alt="Vercel" width="40px" src="https://assets-global.website-files.com/5f217a8e6bc2c82a9d803089/5f217a8e6bc2c80d3780360e_CBm5_MB7_400x400.jpg" />
+<img align="left" alt="Firebase" width="40px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" />
+
 
 
 [twitter]: https://twitter.com/clemente_DCode 

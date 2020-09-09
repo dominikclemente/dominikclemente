@@ -21,6 +21,7 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 [<img align="left" alt="Dominik Clemente | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
 <br />
 
 ## Languages and tools
@@ -39,6 +40,7 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 <img align="left" alt="Remix IDE" height="40px" src="https://cdn-images-1.medium.com/max/1200/1*ekpA3dXdUbEnbC_IPxT9yQ.png" />
 
 <br />
+
 <br />
 
 ### Full Stack Development
@@ -57,6 +59,7 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 <img align="left" alt="MongoDB" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br />
+
 <br />
 
 ### AI/ML + Data Science
@@ -68,13 +71,15 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 <img align="left" alt="Matplotlib" height="26px" src="https://matplotlib.org/3.1.0/_images/sphx_glr_logos2_003.png" />
 <img align="left" alt="Seaborn" height="35px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
 <img align="left" alt="Keras" height="35px" src="https://keras.io/img/logo-k-keras-wb.png" />
-<img align="left" alt="Scikit-learn" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
+<img align="left" alt="Scikit-learn" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" /> \ 
+
 <img align="left" alt="Scipy" height="40px" src="https://www.fullstackpython.com/img/logos/scipy.png" />
 <img align="left" alt="OpenCV" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
-<img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" />
+<img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" /> \
 
 
-<br />
+<br /> 
+
 <br />
 
 ### Workflow

@@ -21,10 +21,12 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 [<img align="left" alt="Dominik Clemente | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 ## Languages and tools
 
 ### Blockchain Development
+
 [<img align="left" alt="Ethereum" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" />][solidity]
 [<img align="left" alt="Solidity" height="40px" src="https://tintinweb.gallerycdn.vsassets.io/extensions/tintinweb/vscode-solidity-flattener/0.0.9/1591478443875/Microsoft.VisualStudio.Services.Icons.Default" />][solidity]
 [<img align="left" alt="Truffle" width="40px" src="https://pthomann.pl/wp-content/uploads/2020/01/truffle.png" />][truffle]
@@ -38,8 +40,10 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 <img align="left" alt="Remix IDE" height="40px" src="https://cdn-images-1.medium.com/max/1200/1*ekpA3dXdUbEnbC_IPxT9yQ.png" />
 
 <br />
+<br />
 
 ### Full Stack Development
+
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="TailwindCSS" height="40px" src="https://cms-assets.tutsplus.com/uploads/users/30/posts/34128/preview_image/tailwindcss-pre.png" />
@@ -54,8 +58,10 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br />
+<br />
 
 ### AI/ML + Data Science
+
 <img align="left" alt="Python" width="40px" src="https://i.pinimg.com/originals/77/88/25/778825be381be66db27d56ba533034ea.png" />
 <img align="left" alt="TensorFlow" width="40px" src="https://3.bp.blogspot.com/-y7Hif1cowAM/XfBhDhB_ARI/AAAAAAAABlo/blLV7czsGqcnmWc9njmzUnp0yh6kNZRAgCLcBGAsYHQ/s1600/1_b4otA55Us-hoI57lqUfplA.png" />
 <img align="left" alt="NumPy" width="40px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />
@@ -70,8 +76,10 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 
 
 <br />
+<br />
 
 ### Workflow
+
 My daily driver machine runs Arch Linux, [here are my config files and the main software I use](https://github.com/dominikclemente/rice)
 
 OS:

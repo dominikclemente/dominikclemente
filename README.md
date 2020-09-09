@@ -24,6 +24,13 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 
 <br />
 
+<br />
+
+<br />
+
+<br />
+
+
 # Languages and tools
 
 ## Blockchain Development (Ethereum decentralized applications)

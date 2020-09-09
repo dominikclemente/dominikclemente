@@ -25,9 +25,8 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 
 ## Languages and tools
 
-### Blockchain Development
+### Blockchain Development (Ethereum decentralized applications)
 
-[<img align="left" alt="Ethereum" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" />][solidity]
 [<img align="left" alt="Solidity" height="40px" src="https://tintinweb.gallerycdn.vsassets.io/extensions/tintinweb/vscode-solidity-flattener/0.0.9/1591478443875/Microsoft.VisualStudio.Services.Icons.Default" />][solidity]
 [<img align="left" alt="Truffle" width="40px" src="https://pthomann.pl/wp-content/uploads/2020/01/truffle.png" />][truffle]
 <img align="left" alt="Metamask" height="40px" src="https://en.bitcoinwiki.org/upload/en/images/e/eb/Metamask.png" />
@@ -37,7 +36,6 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 <img align="left" alt="Zerion DeFi SDK" height="40px" src="https://pbs.twimg.com/profile_images/1249821437247942656/pFqlKyrO_400x400.jpg" />
 <img align="left" alt="Infura" height="40px" src="https://d3vziz3q6u5wet.cloudfront.net/learn-blockchain/tools/infura.png" />
 <img align="left" alt="Web3.js" height="40px" src="https://d3vziz3q6u5wet.cloudfront.net/learn-blockchain/tools/web3_javascript_api.png" />
-<br />
 <img align="left" alt="Remix IDE" height="40px" src="https://cdn-images-1.medium.com/max/1200/1*ekpA3dXdUbEnbC_IPxT9yQ.png" />
 
 <br />

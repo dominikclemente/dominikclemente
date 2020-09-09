@@ -1,3 +1,5 @@
+[![Spotify](https://dominikclemente.vercel.app/api/spotify)](https://open.spotify.com/user/dominikclemente)
+
 ## Hello there, I'm Dominik and I'm a full stack blockchain developer
 
 I'm a freelance full stack blockchain developer and consultant on blockchain/cryptocurrency.
@@ -19,6 +21,8 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 [<img align="left" alt="Dominik Clemente | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Dominik Clemente | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dominik Clemente | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Dominik Clemente | Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" />][gmail]
+
 
 <br />
 
@@ -90,7 +94,7 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 
 ## Workflow
 
-My daily driver machine runs Arch Linux, [here are my config files and the main software I use](https://github.com/dominikclemente/rice):
+My daily driver machine runs Arch Linux, [here are my config files](https://github.com/dominikclemente/rice) and the main tools I use:
 
 <img align="left" alt="Arch Linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -108,5 +112,6 @@ My daily driver machine runs Arch Linux, [here are my config files and the main 
 [twitter]: https://twitter.com/clemente_DCode 
 [instagram]: https://www.instagram.com/dominikclemente/
 [linkedin]: https://www.linkedin.com/in/dominik-clemente-986288116/
+[gmail]: mailto:dominik.clemente@gmail.com
 [solidity]: https://solidity.readthedocs.io/en/v0.7.1/
 [truffle]: https://www.trufflesuite.com/

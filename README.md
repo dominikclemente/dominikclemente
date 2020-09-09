@@ -70,6 +70,15 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 
 <br />
 
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+
 ## AI/ML + Data Science
 
 <img align="left" alt="Python" width="40px" src="https://i.pinimg.com/originals/77/88/25/778825be381be66db27d56ba533034ea.png" />

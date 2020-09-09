@@ -59,7 +59,7 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 <img align="left" alt="MongoDB" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <img align="left" alt="Apollo" width="40px" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
-<img align="left" alt="Cypress" widht="40px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/3556671901536211770-512.png" />
+<img align="left" alt="Cypress" width="40px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/3556671901536211770-512.png" />
 <img align="left" alt="Express" height="40px" src="https://p7.hiclipart.com/preview/545/451/583/node-js-express-js-javascript-solution-stack-web-application-others.jpg" />
 
 

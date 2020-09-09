@@ -66,19 +66,6 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 
 <br />
 
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-
 ## AI/ML + Data Science
 
 <img align="left" alt="Python" width="40px" src="https://i.pinimg.com/originals/77/88/25/778825be381be66db27d56ba533034ea.png" />
@@ -93,14 +80,19 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 <img align="left" alt="OpenCV" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
 <img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" />
 
+<br /> 
 
+<br />
 
-
+<br />
 
 <br /> 
 
 <br />
 
+<br />
+
+<br />
 
 ## Workflow
 

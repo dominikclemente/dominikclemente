@@ -1,4 +1,4 @@
-[<img src="https://novatorem-khaki-eight.vercel.app/api/spotify" alt="Dominik Spotify Playing" width="350" />](https://open.spotify.com/user/dominik.clemente)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/dominik.clemente)
 
 ## Hello there, I'm Dominik and I'm a full stack blockchain developer
 

@@ -1,6 +1,6 @@
 ### I'm currently listening to
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/dominik.clemente)
+[![Spotify](https://spotify-playing-beryl.vercel.app/api/spotify)](https://open.spotify.com/user/dominik.clemente)
 
 ## Hello there, I'm Dominik and I'm a full stack blockchain developer
 

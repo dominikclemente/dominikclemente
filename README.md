@@ -37,6 +37,8 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 <img align="left" alt="Web3.js" height="26px" src="https://d3vziz3q6u5wet.cloudfront.net/learn-blockchain/tools/web3_javascript_api.png" />
 <img align="left" alt="Remix IDE" height="26px" src="https://cdn-images-1.medium.com/max/1200/1*ekpA3dXdUbEnbC_IPxT9yQ.png" />
 
+<br />
+
 ### Full Stack Development
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -51,6 +53,8 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 <img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
+<br />
+
 ### AI/ML + Data Science
 <img align="left" alt="Python" width="26px" src="https://i.pinimg.com/originals/77/88/25/778825be381be66db27d56ba533034ea.png" />
 <img align="left" alt="TensorFlow" width="26px" src="https://3.bp.blogspot.com/-y7Hif1cowAM/XfBhDhB_ARI/AAAAAAAABlo/blLV7czsGqcnmWc9njmzUnp0yh6kNZRAgCLcBGAsYHQ/s1600/1_b4otA55Us-hoI57lqUfplA.png" />
@@ -64,6 +68,8 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 <img align="left" alt="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
 <img align="left" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" />
 
+
+<br />
 
 ### Workflow
 My daily driver machine runs Arch Linux, [here are my config files and the main software I use](https://github.com/dominikclemente/rice)

@@ -15,9 +15,12 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 - 😄Fun fact: I love Drum&Bass and latino music 🎶
 
 ### Connect with me
+
 [<img align="left" alt="Dominik Clemente | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Dominik Clemente | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dominik Clemente | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 ## Languages and tools
 

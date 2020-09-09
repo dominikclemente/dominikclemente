@@ -1,7 +1,6 @@
 ### Hello there, I'm Dominik and I'm a full stack blockchain developer
 
 ## I'm a CS and AI Student at Charles University in Prague ❤️
----
 - 🧠I'm currently taking the [6-figure blockchain development](https://eattheblocks.com/6-figure-blockchain-developer/) course at [EatTheBlocks](https://eattheblocks.com/)
 - 📚I'm deepening my knowledge in [TypeScript](https://www.udemy.com/course/understanding-typescript/) and [NodeJS](https://www.udemy.com/course/nodejs-the-complete-guide/)
 - 💰I have a passion for finance, cryptocurrencies, blockchain, AI and their interplay

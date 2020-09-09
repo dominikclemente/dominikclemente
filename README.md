@@ -1,4 +1,4 @@
-[![Spotify](https://dominikclemente.vercel.app/api/spotify)](https://open.spotify.com/user/dominikclemente)
+[![Spotify](https://novatorem.dominikclemente.vercel.app/api/spotify)](https://open.spotify.com/user/dominik.clemente)
 
 ## Hello there, I'm Dominik and I'm a full stack blockchain developer
 

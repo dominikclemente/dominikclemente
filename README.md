@@ -68,8 +68,10 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 <img align="left" alt="Apollo" width="40px" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
 <img align="left" alt="Cypress" width="40px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/3556671901536211770-512.png" />
 <img align="left" alt="Express" height="40px" src="https://p7.hiclipart.com/preview/545/451/583/node-js-express-js-javascript-solution-stack-web-application-others.jpg" />
+
 <br />
 <br />
+
 ## AI/ML + Data Science
 
 <img align="left" alt="Python" width="40px" src="https://i.pinimg.com/originals/77/88/25/778825be381be66db27d56ba533034ea.png" />

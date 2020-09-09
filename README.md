@@ -23,11 +23,11 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 
 ### Blockchain Development
 [<img align="left" alt="Ethereum" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" />][solidity]
-[<img align="left" alt="Solidity" width="26px" src="https://tintinweb.gallerycdn.vsassets.io/extensions/tintinweb/vscode-solidity-flattener/0.0.9/1591478443875/Microsoft.VisualStudio.Services.Icons.Default" />][solidity]
+[<img align="left" alt="Solidity" height="26px" src="https://tintinweb.gallerycdn.vsassets.io/extensions/tintinweb/vscode-solidity-flattener/0.0.9/1591478443875/Microsoft.VisualStudio.Services.Icons.Default" />][solidity]
 [<img align="left" alt="Truffle" width="26px" src="https://pthomann.pl/wp-content/uploads/2020/01/truffle.png" />][truffle]
 [<img align="left" alt="Metamask" height="26px" src="https://en.bitcoinwiki.org/upload/en/images/e/eb/Metamask.png" />]
 [<img align="left" alt="Ganache" height="26px" src="https://www.mycryptopedia.com/wp-content/uploads/2019/11/rsz_ganachee.png" />][truffle]
-[<img align="left" alt="Drizzle" width="26px" src="https://miro.medium.com/max/1125/1*WbnSv_toJCVwB5Ccob7_bg.png" />][truffle]
+[<img align="left" alt="Drizzle" height="26px" src="https://miro.medium.com/max/1125/1*WbnSv_toJCVwB5Ccob7_bg.png" />][truffle]
 [<img align="left" alt="OpenZeppelin" height="26px" src="https://cdn.stateofthedapps.com/dapps/openzeppelin/logo_openzeppelin_b8c833659d043cf69a7dd13d3487defdac2af8fd9d487db68e457f129284f8dc_opti.png" />]
 [<img align="left" alt="Zerion DeFi SDK" height="26px" src="https://pbs.twimg.com/profile_images/1249821437247942656/pFqlKyrO_400x400.jpg" />]
 [<img align="left" alt="Infura" height="26px" src="https://d3vziz3q6u5wet.cloudfront.net/learn-blockchain/tools/infura.png" />]
@@ -43,8 +43,8 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="NextJS" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 
@@ -64,7 +64,9 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 
 ### Workflow
 My daily driver machine runs Arch Linux, [here are my config files and the main software I use](https://github.com/dominikclemente/rice)
-OS: [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+
+OS:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
  
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="WebStorm" width="26px" src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" />]

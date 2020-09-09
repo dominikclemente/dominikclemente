@@ -1,4 +1,4 @@
-### Hello there, I'm Dominik and I'm a full stack blockchain developer
+## Hello there, I'm Dominik and I'm a full stack blockchain developer
 
 I'm a freelance full stack blockchain developer and consultant on blockchain/cryptocurrency.
 
@@ -7,14 +7,14 @@ I'm open for consulting sessions on Blockchain and cryptocurrency either physica
 I believe that our financial system is obsolete and cryptocurrencies along with the ecosystems built on top of their blockchains can revolutionize the finance industry and the rest of the world. Decentralized finance on Ethereum is such a platform and I've invested a lot of time into blockchain development, smart contract programming and in understanding the mechanisms underlying these technologies. I believe in an open world where people are the owners of their own money. #Bankless
 
 
-## I'm a CS and AI Student at Charles University in Prague ❤️
+# I'm a CS and AI Student at Charles University in Prague ❤️
 - 🧠I'm currently taking the [6-figure blockchain development](https://eattheblocks.com/6-figure-blockchain-developer/) course at [EatTheBlocks](https://eattheblocks.com/)
 - 📚I'm deepening my knowledge in [TypeScript](https://www.udemy.com/course/understanding-typescript/) and [NodeJS](https://www.udemy.com/course/nodejs-the-complete-guide/)
 - 💰I have a passion for finance, cryptocurrencies, blockchain, AI and their interplay
 - 👨‍💻My goal is to become a highly skilled blockchain developer, while also using my passion for AI in the processs.
 - 😄Fun fact: I love Drum&Bass and latino music 🎶
 
-### Connect with me
+## Connect with me
 
 [<img align="left" alt="Dominik Clemente | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Dominik Clemente | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -78,15 +78,18 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 <img align="left" alt="Seaborn" height="35px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
 <img align="left" alt="Keras" height="35px" src="https://keras.io/img/logo-k-keras-wb.png" />
 <img align="left" alt="Scikit-learn" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />  
-
 <img align="left" alt="Scipy" height="40px" src="https://www.fullstackpython.com/img/logos/scipy.png" />
 <img align="left" alt="OpenCV" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
-<img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" /> 
+<img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" />
+
+
+
 
 
 <br /> 
 
 <br />
+
 
 ## Workflow
 

@@ -35,7 +35,7 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 ## Blockchain Development (Ethereum decentralized applications)
 
 [<img align="left" alt="Solidity" height="40px" src="https://tintinweb.gallerycdn.vsassets.io/extensions/tintinweb/vscode-solidity-flattener/0.0.9/1591478443875/Microsoft.VisualStudio.Services.Icons.Default" />][solidity]
-[<img align="left" alt="Truffle" width="40px" src="https://pthomann.pl/wp-content/uploads/2020/01/truffle.png" />][truffle]
+[<img align="left" alt="Truffle" width="40px" src="https://miro.medium.com/max/800/1*P-T7USHsmPYOSBorXAqXYA.png" />][truffle]
 <img align="left" alt="Metamask" height="40px" src="https://en.bitcoinwiki.org/upload/en/images/e/eb/Metamask.png" />
 [<img align="left" alt="Ganache" height="40px" src="https://www.mycryptopedia.com/wp-content/uploads/2019/11/rsz_ganachee.png" />][truffle]
 [<img align="left" alt="Drizzle" height="40px" src="https://miro.medium.com/max/1125/1*WbnSv_toJCVwB5Ccob7_bg.png" />][truffle]

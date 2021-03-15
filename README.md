@@ -11,7 +11,7 @@ I'm open for consulting sessions on Blockchain and cryptocurrency either physica
 I believe that our financial system is obsolete and cryptocurrencies along with the ecosystems built on top of their blockchains can revolutionize the finance industry and the rest of the world. Decentralized finance on Ethereum is such a platform and I've invested a lot of time into blockchain development, smart contract programming and in understanding the mechanisms underlying these technologies. I believe in an open world where people are the owners of their own money. #Bankless
 
 
-# I'm a CS and AI Student at Charles University in Prague ❤️
+# I'm building the crypto educational platform [jaknacrypto.cz](https://jaknacrypto.cz/en)  
 - 🧠I'm currently taking the [6-figure blockchain development](https://eattheblocks.com/6-figure-blockchain-developer/) course at [EatTheBlocks](https://eattheblocks.com/)
 - 📚I'm deepening my knowledge in [TypeScript](https://www.udemy.com/course/understanding-typescript/) and [NodeJS](https://www.udemy.com/course/nodejs-the-complete-guide/)
 - 💰I have a passion for finance, cryptocurrencies, blockchain, AI and their interplay

@@ -12,7 +12,7 @@ I believe that our financial system is obsolete and cryptocurrencies along with 
 
 
 # I'm building the crypto educational platform [jaknacrypto.cz](https://jaknacrypto.cz/en)  
-- 🧠 I'm currently taking the [6-figure blockchain development](https://eattheblocks.com/6-figure-blockchain-developer/) course at [EatTheBlocks](https://eattheblocks.com/)
+- 🧠 I'm currently taking the [DeFi blockchain development](https://eattheblocks-pro.teachable.com/p/defi-development-mastery) course at [EatTheBlocks](https://eattheblocks.com/)
 - 📚 I'm deepening my knowledge in [TypeScript](https://www.udemy.com/course/understanding-typescript/) and [NodeJS](https://www.udemy.com/course/nodejs-the-complete-guide/)
 - 🎓 I'm part of the [Ivan on Tech Academy](https://academy.ivanontech.com/) team
 - 💰 I have a passion for finance, cryptocurrencies, blockchain, AI and their interplay

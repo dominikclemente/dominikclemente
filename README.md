@@ -11,12 +11,13 @@ I'm open for consulting sessions on Blockchain and cryptocurrency either physica
 I believe that our financial system is obsolete and cryptocurrencies along with the ecosystems built on top of their blockchains can revolutionize the finance industry and the rest of the world. Decentralized finance on Ethereum is such a platform and I've invested a lot of time into blockchain development, smart contract programming and in understanding the mechanisms underlying these technologies. I believe in an open world where people are the owners of their own money. #Bankless
 
 
-# I'm building the crypto educational platform [jaknacrypto.cz](https://jaknacrypto.cz/en)  
+# Working hard to become a senior full-stack blockchain dev.  
 - 🧠 I'm currently taking the [DeFi blockchain development](https://eattheblocks-pro.teachable.com/p/defi-development-mastery) course at [EatTheBlocks](https://eattheblocks.com/)
 - 📚 I'm deepening my knowledge in [TypeScript](https://www.udemy.com/course/understanding-typescript/) and [NodeJS](https://www.udemy.com/course/nodejs-the-complete-guide/)
-- 🎓 I'm part of the [Ivan on Tech Academy](https://academy.ivanontech.com/) team
+- 🎓 I'm part of the [Ivan on Tech Academy](https://academy.ivanontech.com/) Blockchain review team
+- 🎓 I'm a Solidity mentor at Bankless DAO where we help students learn dapp development from scratch
 - 💰 I have a passion for finance, cryptocurrencies, blockchain, AI and their interplay
-- 👨‍💻 My goal is to become a highly skilled blockchain developer, while also using my passion for AI in the processs.
+- 👨‍💻 My goal is to become a highly skilled blockchain developer, while also using my passion for AI in the processs
 - 😄 Fun fact: I love Drum&Bass and latino music 🎶
 
 ## Connect with me
